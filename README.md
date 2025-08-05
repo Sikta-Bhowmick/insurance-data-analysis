@@ -44,4 +44,4 @@
 
 
 6. Screenshot:
-   
+   Dashboard looks like : https://github.com/Sikta-Bhowmick/insurance-data-analysis/blob/main/insurance%20project.png
